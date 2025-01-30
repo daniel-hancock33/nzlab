@@ -1,0 +1,4 @@
+CREATE SCHEMA :schema
+;
+ALTER DATABASE :db SET DEFAULT SCHEMA :schema
+;
